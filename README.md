@@ -19,39 +19,87 @@ I create web apps using PHP with the Laravel framework as well as mobile apps pr
 ![](https://img.shields.io/badge/ide-phpstorm-informational?style=for-the-badge&logo=Intellij%20IDEA&logoColor=white&color=blue)
 
 ## 📈 Work History
-### **Photojojo** - Full-Stack Laravel developer, _Employeed from May 2015 to January 2016_
-Photojojo was an eCommerce platform where we sold mobile and mobile camera accessories. I was apart of a 2 man team who designed and developed the entire website from scratch using PHP with the Laravel 5 framework, MySQL, and basic Blade, HTML, CSS, and JavaScript code. Since I was right out of college, I was able to really cut my teeth on how to build an entire web and eCommerce platform from scratch. 
+### **Photojojo** - Full-Stack Laravel developer
+#### _Employeed from May 2015 to January 2016_
+**Accomplishments**
+* Assisted in a complete rewrite of an 8-year-old legacy eCommerce system to allow business flexibility and growth. 
+* Went from first Git commit to product launch in 5 months.
+* Setup and create Eloquent model relationships.
+* Write general CRUD operations during initial project setup phase.
+* Build custom session based shopping cart logic. 
 
-My job as a junior Laravel developer was to create and manage all the of the model relationships, write basic CRUD operations during the inital project setup, and build almost the entire cart system using JavaScript and some jQuery. 
+**Technologies**
+* PHP with the Laravel 5 framwork
+* MySQL
+* Blade HTML views
+* CSS which included SASS
+* JavaScript and jQuery
+* Git
 
-### **SmartBridge** - Cross-Platform Mobile and ASP.NET Web Consultant, _Employeed from March 2016 to October 2016_
-SmartBridge is a consulting firm in Houston, Texas focused on B2B technologies and innovations. Part of my job was to help manage client relations during the inital requirements phase of development and gain understanding on how the client wanted the projects to function. My main job was an ASP.NET MVC developer as well as a Cross-Platform Mobile Applications developer using C#, .NET, and Xamarin.
+### **SmartBridge** - Cross-Platform Mobile and ASP.NET Web Consultant 
+#### _Employeed from March 2016 to October 2016_
+**Accomplishments**
+* Successfully created a proof-of-concept cross-platform mobile application for tracking rentable warehouse items.
+* Assisted in gathering requirements for client projects.
+* Manage client relationships during requirements phase of development.
 
-### **Appleton Talent/Spur** - Full-Stack Laravel and Ionic Mobile developer, _Employeed from October 2016 to February 2018_
-When I started at Appleton Talent, I helped manage a SAAS application for managing staffing for public schools. This included HR, Payroll, Absense tracking, etc. for teachers and staff. This was a Laravel 5+ application using PostreSQL, Angular, Vue, and some jQuery. My job at the beginning was to help fix bugs, add features, and help our support staff with issues they had with the platform. 
+**Technologies**
+* C# and ASP.NET MVC
+* Xamarin for cross-platform mobile development
+* Microsoft SQL
+* Java using MAF
+* Git 
 
-After a year there, focused shifted from that application to a new cross-platform mobile application called Spur. My job here was to add new features to the Laravel API backend as well as the front-end views in Ionic using TypeScript. 
+### **Appleton Talent/Spur** - Full-Stack Laravel and Ionic Mobile developer
+#### _Employeed from October 2016 to February 2018_
+**Accomplishments**
+* Managed SAAS applications for managing staffing for public schools including:
+  * HR
+  * Payroll
+  * Absentee tracking
+  * Onboarding
+* Add features and fix bugs submitted through ticketing system.
+* Assist in planning and building a cross-platform mobile application including:
+  * Adding new features to the Laravel REST API.
+  * Add and update mobile views in Ionic using TypeScript.
+  * Manage iOS and Android builds in Microsoft Appcenter and using Codepush for OTA updates.
+* Git
 
-### **Dealer Inspire** - Inventory Support developer, _Employeed from October 2018 to present_
-My job at DI is to fix bugs related to our Inventory Wordpress plugin, our Inventory Management system, and our Inventory Processor. My job is kind of the "catch-all" of the company. If there is a problem with one of our 5000+ Wordpress sites, most likely the SalesForce ticket will make it to us!
+**Technologies**
+* PHP with the Laravel 5 framework
+* PostgreSQL and Heroku
+* Ionic using TypeScript for cross-platform mobile development
+* Vuejs & Angularjs
+* Blade HTML views
+
+### **Dealer Inspire** - Inventory Support developer
+#### _Employeed from October 2018 to present_
+**Accomplishments**
+* Diagnose and fix errors and bugs related to inventory reported using Salesforce.
+* Manage multiple Wordpress plugins including our Inventory plugin, IMS, and Inventory Processor.
+* Overhaul pricing stacks of major dealer group to convert complex pricings from basic tool to the advanced pricing stacks.
+* Manage legacy PHP 5.6 codebase as well as many PHP 7+ codebases.
+
+**Technologies**
+* PHP with Wordpress
+* Custom Wordpress plugins
+* MySQL
+* Git and Mercurial
 
 ## 🥇 Additional Projects
-### **Lightpost Mobile App**
-Over the last year or so, I have been working with the creator of [Lightpost](https://lightpost.app) to help create a maintain a mobile app using React Native. Initially, the Lightpost mobile app was a Turbolinks app, but the need for a native application on iOS and Android became a priority. At first, I used Redux to persist data accross the app, but later removed it for Context and updated all components from class level components to hooks. 
+### **Lightpost Mobile App** 
+**Accomplishments**
+* Build a complete cross-platform mobile application for the Lightpost project.
+* Setup a React Native project including Redux, later re-written to use Context.
+* Setup using Expo but eject to React Native CLI for more advanced features.
+* Use existing Laravel REST API endpoints to manage data in the mobile app.
+* Assist in converting old backend authenticating to Laravel Passport.
+* Implement Google Firebase for mobile push notifications.
+* Configure Microsoft Appcenter for Codepush OTA updates as well as managing mobile builds and analytics.
 
-<!-- ...to be continued -->
-
-<!--
-**A3mercury/A3mercury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technologies**
+* React Native for cross-platform mobile development
+* Objective-C and Java for app configuration
+* React Redux and React Context
+* Tailwindcss
+* Git
