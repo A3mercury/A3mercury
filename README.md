@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/A3mercury/A3mercury/master/github-header1.png "Header")](https://github.com/A3mercury/)
 
 ## 👀 Hello there!
-I create web apps using PHP with the Laravel framework as well as mobile apps primarily using React Native. I consider myself a full-stack developer because I'm proficient with every layer of an application. I have a passion for learning and sharing my knowledge with others as much as possible. Aside from programming, I have a background in graphic design so not only can I make functional and robust software, I can also make it look good!
+I excel at creating web and mobile applications utilizing frameworks such as Laravel, React, and React Native. Being proficient with all the layers of an application, as well as carrying both a Graphic Design and Computer Science degree, I confidently bill myself as an experienced full-stack developer. My capabilities are my passion, and I immensely enjoy knowledge sharing with others in my field while continuing to grow with the fast paced technology sector.
 
 ## 💾 Technologies & Tools
 ![](https://img.shields.io/badge/code-php-informational?style=for-the-badge&logo=php&logoColor=white&color=red)
